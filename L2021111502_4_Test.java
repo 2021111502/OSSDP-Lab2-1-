@@ -5,13 +5,13 @@ import java.util.Arrays;
 import static org.junit.Assert.*;
 
 /**
- * ÓÃÀıÉè¼Æ×ÜÌåÔ­Ôò£ºµÈ¼ÛÀà»®·ÖÔ­Ôò
- * ·ÖÎªÊı×éÔªËØ<2;Ò»°ã£»µÈ²î£»È«ÏàµÈ£»¼«´ó²î¾à
+ * ç”¨ä¾‹è®¾è®¡æ€»ä½“åŸåˆ™ï¼šç­‰ä»·ç±»åˆ’åˆ†åŸåˆ™
+ * åˆ†ä¸ºæ•°ç»„å…ƒç´ <2;ä¸€èˆ¬ï¼›ç­‰å·®ï¼›å…¨ç›¸ç­‰ï¼›æå¤§å·®è·
  */
 public class L2021111502_4_Test {
 
     /**
-     * Êı×éÔªËØĞ¡ÓÚ2
+     * æ•°ç»„å…ƒç´ å°äº2
      */
     @Test public void test1(){
         Solution4 s =new Solution4();
@@ -20,7 +20,7 @@ public class L2021111502_4_Test {
 
     }
     /**
-     * Ò»°ã²âÊÔ
+     * ä¸€èˆ¬æµ‹è¯•
      */
     @Test public void test2(){
         Solution4 s =new Solution4();
@@ -29,7 +29,7 @@ public class L2021111502_4_Test {
 
     }
     /**
-     * µÈ²î²âÊÔ
+     * ç­‰å·®æµ‹è¯•
      */
     @Test public void test3(){
         Solution4 s =new Solution4();
@@ -38,7 +38,7 @@ public class L2021111502_4_Test {
 
     }
     /**
-     * È«ÏàµÈ²âÊÔ
+     * å…¨ç›¸ç­‰æµ‹è¯•
      */
     @Test public void test4(){
         Solution4 s =new Solution4();
@@ -47,7 +47,7 @@ public class L2021111502_4_Test {
 
     }
     /**
-     * ¼«´ó²î¾à²âÊÔ
+     * æå¤§å·®è·æµ‹è¯•
      */
     @Test public void test5(){
         Solution4 s =new Solution4();
@@ -56,3 +56,4 @@ public class L2021111502_4_Test {
 
     }
 }
+//æµ‹è¯•å¾ˆå…¨é¢
